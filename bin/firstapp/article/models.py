@@ -8,3 +8,4 @@ class Article(models.Model):
 	article_text = models.TextField()
 	article_date = models.DateTimeField()
 	article_likes = models.IntegerField()
+#щось там написав
